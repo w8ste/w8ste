@@ -7,4 +7,4 @@ You can contact me on Discord (w8ste (Hannes)#8444) or via Email (w8stes@gmail.c
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=w8ste&show_icons=true&theme=gruvbox&count_private=true&bg_color=00000000&hide=prs, stars)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=w8ste&hide=stars,prs, theme=gruvbox&count_private=true)
