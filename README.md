@@ -6,5 +6,3 @@ I also consider myself a trackball enthusiast, interested in stationary and a sp
 You can contact me on Discord (w8ste_hannes) or via Email (w8stes@gmail.com).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w8ste&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
-
