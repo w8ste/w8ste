@@ -1,8 +1,5 @@
 # Hey, welcome to my profile ^^
 
-<h3 align="center">
-    <img src="https://imgur.com/kOXnswR.gif"
-</h3>
 <h1>
     About me: 
 </h1>
