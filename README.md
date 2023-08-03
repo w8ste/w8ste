@@ -1,9 +1,6 @@
 # Hey, welcome to my profile ^^
 
-<h1>
-    About me: 
-</h1>
-
+### About me:
 - I currently study computer science at TU Darmstadt, Germany
 - I like reading, coding and listening to lofi 📒
 - I use Arch (btw) 🔥
