@@ -6,9 +6,9 @@
 - I use Arch (btw) 🔥
 - I also enjoy speedcubing, documentaries, trackball mice and stationary ✏️
 - You can contact me on Discord (w8ste_hannes) or via Email (w8stes@gmail.com).
-    
+  
 <h3 align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w8ste&layout=compact&theme=tokyonight" 
+    
 </h3>
 
 <h3 align="center">
