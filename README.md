@@ -5,6 +5,7 @@
 - I like reading, coding and listening to lofi 📒 </br>
 - I use Arch (btw) 🔥 </br>
 - I also enjoy speedcubing, documentaries, trackball mice and stationary ✏️ </br>
+- You can contact me via Discord (hannes_albert) :)
 
 <h3 align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=w8ste&show_icons=true&layout=compact&theme=tokyonight" width="600" height="200"/></br>
