@@ -21,3 +21,6 @@
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=w8ste&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
+### ⛓️  Leetcode
+![Alt text](https://leetcard.jacoblin.cool/w8st3?theme=nord)
+
