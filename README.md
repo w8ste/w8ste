@@ -4,7 +4,7 @@
 - I currently study computer science at TU Darmstadt, Germany <br>
 - I like reading, coding and listening to lofi 📒 <br>
 - I use Arch (btw) 🔥 <br>
-- Working as research assistant on MPC <br>
+- Working as a research assistant on MPC <br>
 - I also enjoy speedcubing, documentaries, trackball mice and stationary ✏️<br>
 - You can contact me via Discord (w8ste_hannes) :)
 
