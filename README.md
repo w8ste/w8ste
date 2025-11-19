@@ -3,6 +3,7 @@
 ### 💫 About Me:
 - I currently study computer science at TU Darmstadt, Germany <br>
 - I like reading, coding and listening to lofi 📒 <br>
+- I am employed as an research assistant in the field of climate neutral production 🌱 <br>
 - I use Arch (btw) 🔥 <br>
 - I also enjoy speedcubing, documentaries, trackball mice and stationary ✏️<br>
 - You can contact me via Discord (w8ste_hannes) :)
